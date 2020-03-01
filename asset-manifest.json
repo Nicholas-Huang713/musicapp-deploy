@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/musicapp-deploy/static/css/main.0dc901a6.chunk.css",
+    "main.js": "/musicapp-deploy/static/js/main.42b4a93c.chunk.js",
+    "main.js.map": "/musicapp-deploy/static/js/main.42b4a93c.chunk.js.map",
+    "runtime-main.js": "/musicapp-deploy/static/js/runtime-main.fd889b18.js",
+    "runtime-main.js.map": "/musicapp-deploy/static/js/runtime-main.fd889b18.js.map",
+    "static/js/2.20ac9021.chunk.js": "/musicapp-deploy/static/js/2.20ac9021.chunk.js",
+    "static/js/2.20ac9021.chunk.js.map": "/musicapp-deploy/static/js/2.20ac9021.chunk.js.map",
+    "index.html": "/musicapp-deploy/index.html",
+    "precache-manifest.c30f97a1afd1032308ecb808d5d06af3.js": "/musicapp-deploy/precache-manifest.c30f97a1afd1032308ecb808d5d06af3.js",
+    "service-worker.js": "/musicapp-deploy/service-worker.js",
+    "static/css/main.0dc901a6.chunk.css.map": "/musicapp-deploy/static/css/main.0dc901a6.chunk.css.map",
+    "static/media/App.css": "/musicapp-deploy/static/media/turntable3.6a2d0c9f.jpg",
+    "static/media/liked.png": "/musicapp-deploy/static/media/liked.cbd99399.png",
+    "static/media/unliked.png": "/musicapp-deploy/static/media/unliked.ebdb60f0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd889b18.js",
+    "static/js/2.20ac9021.chunk.js",
+    "static/css/main.0dc901a6.chunk.css",
+    "static/js/main.42b4a93c.chunk.js"
+  ]
+}
